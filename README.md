@@ -71,7 +71,7 @@ We evaluated forecasting performance over a 30-day out-of-sample window using **
 
 | Forecasting Model | Key Characteristics | Validation Metric (MAE) | Operational Fit |
 | --- | --- | --- | --- |
-| **Meta Prophet** | Curve-fitting approach; preserves high-frequency seasonal waves. | **2.92 deliveries** | 🏆 **Winner** (Highly accurate) |
+| **Meta Prophet** | Curve-fitting approach; preserves high-frequency seasonal waves. | **2.92 deliveries** | **Winner** (Highly accurate) |
 | **ARIMA (5,1,0)** | Traditional statistical lag autoregression; rapidly flattens over time. | **9.13 deliveries** | Baseline (Lacks long-range seasonal memory) |
 
 ### Phase 3: Operational Stock Planning Dashboard
