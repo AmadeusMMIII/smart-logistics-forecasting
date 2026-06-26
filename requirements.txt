@@ -1,0 +1,12 @@
+# Data Manipulation & Core Utilities
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Mathematical Modeling & Machine Learning
+statsmodels>=0.14.0
+prophet>=1.1.0
+scikit-learn>=1.2.0
+
+# Data Visualization & Notebook Enhancements
+matplotlib>=3.7.0
+ipywidgets>=8.0.0
